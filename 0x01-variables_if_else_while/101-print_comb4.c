@@ -1,6 +1,3 @@
-es (31 sloc)  468 Bytes
- 
-
 #include <stdio.h>
 
 /**
